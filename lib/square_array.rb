@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  while i=0
+  array.math.exp(i)
+  i+=1
 end
